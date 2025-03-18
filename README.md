@@ -1,6 +1,6 @@
 ## Olá, Eu sou Camelo Dev 🖐️
 ### Redes Sociais
-[![Blog](https://img.shields.io/website?label=CameloDev.tech&style=for-the-bagde&url=https://camelodev.tech/)](https://www.camelodev.tech)
+[![Blog](https://img.shields.io/website?label=CameloDev.tech&style=for-the-bagde&url=https://www.camelodev.tech/)](https://www.camelodev.tech)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor.dll0/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-jayme-1bb354259/)
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5569992474484)
