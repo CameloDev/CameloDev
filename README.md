@@ -16,7 +16,7 @@
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@camelodev&layout=compact&theme=dark)
 
-#Github Trophy
+# Github Trophy
 <p align="center">
   <a
     href="https://github.com/ryo-ma/github-profile-trophy"
