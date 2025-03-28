@@ -10,7 +10,12 @@
 
 ## Card Starts
 
-![Status do Github de Camelo](https://github-readme-stats.vercel.app/api?username=camelodev&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camelodev&theme=dark&hide_border=false&include_all_commits=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camelodev&theme=dark&hide_border=false&layout=compact)  
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@camelodev&layout=compact&theme=dark)
+
 
 ## Linguagens de Programação
 ![Blog](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
