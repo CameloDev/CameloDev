@@ -19,7 +19,7 @@
 # Github Trophy
 <p align="start">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=kevyncode&theme=radical&margin-w=15&no-frame=true&no-bg=true" />
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=camelodev&theme=radical&margin-w=15&no-frame=true&no-bg=true" />
   </a>
 </p>
 
