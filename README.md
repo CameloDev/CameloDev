@@ -16,7 +16,18 @@
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@camelodev&layout=compact&theme=dark)
 
-
+#Github Trophy
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=camelodev&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
 
 ## Linguagens de Programação
 ![Blog](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
