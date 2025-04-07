@@ -206,9 +206,9 @@ These early-stage projects may lack features or contain minor bugs — but they�
 ### 🌌 3D Contribution metrics(latest)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camelodev/camelodev/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/camelodev/camelodev/main/profile-3d-contrib/profile-south-season-animate.svg" />
-  <img alt="3d-contrib" src="https://raw.githubusercontent.com/camelodev/camelodev/main/profile-3d-contrib/profile-south-season-animate.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/camelodev/camelodev/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/camelodev/camelodev/blob/main/profile-3d-contrib/profile-south-season-animate.svg" />
+  <img alt="3d-contrib" src="3d-contrib.svg" />
 </picture>
 
 ---
