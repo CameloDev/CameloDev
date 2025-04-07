@@ -165,6 +165,24 @@ These early-stage projects may lack features or contain minor bugs — but they�
 
 ---
 
+<details>
+  <summary>🦑 Github Metrics 🌌</summary>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/camelodev/camelodev/blob/main/metrics.plugin.achievements.compact.svg" alt="metrics">
+        <img src="https://github.com/camelodev/camelodev/blob/main/metrics.plugin.followup.indepth.svg" alt="metrics">
+      </td>
+      <td>
+        <img src="https://github.com/camelodev/camelodev/blob/main/metrics.classic.svg" alt="classic metrics">
+        <img src="https://github.com/camelodev/camelodev/blob/main/metrics.plugin.languages.indepth.svg" alt="language-analysis">
+      </td>
+    </tr>
+  </table>
+</details>
+
+---
+
 ### 👨‍💻 Find me on communities
 
 <div width="100%" display="flex" align="center">
@@ -230,6 +248,7 @@ These early-stage projects may lack features or contain minor bugs — but they�
   <img alt="activity-graph" src="activity-graph.svg" />
 </picture>
 </a>
+
 ---
 
 <details>
