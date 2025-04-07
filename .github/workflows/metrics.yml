@@ -25,4 +25,4 @@ jobs:
             deployer, member, maintainer, developer, influencer, chatter,
             forker, follower, scripter, packager, explorer, verified, manager
           plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+          plugin_achievements_threshold: 1
