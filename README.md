@@ -1,46 +1,295 @@
-## Olá, Eu sou Camelo Dev 🖐️
-### Redes Sociais
-[![Blog](https://img.shields.io/website?label=www.camelodev.tech&style=for-the-bagde&url=https://www.camelodev.tech/)](https://www.camelodev.tech)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor.dll0/)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-jayme-1bb354259/)
-[![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5569992474484)
+<div align="center">
+<a href="https://github.com/camelodev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Camelo+Dev;I'm+a+web+developer;I'm+an+android+developer;I'm+a+cross-platform+developer;I'm+a+Backend+developer" alt="Typing SVG" /></a>  
+</div>
 
-[![Github Page](https://komarev.com/ghpvc/?username=your-github-camelo-dev&color=131313)](https://github.com/camelodev)
+$$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
+
+<a href="https://github.com/kavicastelo">
+  <img src="https://render.gitanimals.org/lines/camelodev?pet-id=655005503710681288" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/camelodev?pet-id=655084059983724938" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/camelodev?pet-id=676696471626403543" width="30%" height="100" />
+</a>
+
+‎‎ ‎ ‎ ‎ I am a **full-stack software engineer** and **entrepreneur** who specializes in developing **scalable web, mobile, and enterprise solutions**. With a strong foundation in **MEAN stack**, **Java-based systems**, and **cloud-native development**, I thrive on solving complex problems and building high-performance software.
+
+### 🚀 About Me
+- 🔥 **Backend & Software Engineer** at **StargateIt** – Innovating **Appetito** to Restaurants
+- 💻 **3+ hours of daily coding** – Focused on Backend, and Cloud computing
+- 🔬 Passionate about **DevOps, and Large-Scale Management System**
+- 🎯 Aiming to **achieve full financial independence** before **30** 🔥
+
+<i>Check out my [Digital Garden](https://camelodev.tech/)</i> <br>
+
+---
+> ### ⚠️ Repository Order Notice
+> I recently reorganized my repositories, which brought some older, beginner-friendly projects to the top.
+These early-stage projects may lack features or contain minor bugs — but they’re a great starting point for learners or those who love to contribute!
+> 
+> 🔧 Contributions are warmly welcome – whether it’s fixing bugs, improving documentation, adding features, or doing code reviews.
+> 
+> You’ll also find more complex and production-grade projects throughout the repo list, suitable for intermediate and expert developers.
+> 
+> 🚀 Dive in, explore, and feel free to leave feedback, open issues, or raise pull requests. Let’s build together!
+---
+
+### 💡 Tech Stack
+
+#### **🚀 Programming & Scripting:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-FF61E2?style=flat&logo=c%2B%2B&logoColor=blck)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PHP-A2A4D2?style=flat&logo=php&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Assembly-2461A3?style=flat&logo=assembly&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
+#### **🖥️ Frontend:**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+#### **⚙️ Backend:**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+
+#### **🗄️ Databases:**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Firebase-FFA50A?style=flat&logo=firebase&logoColor=white)
+![Static Badge](https://img.shields.io/badge/DynamoDB-000000?style=flat&logo=amazon&logoColor=white)
+
+#### **🌐 APIs:**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JWT-000000?style=flat&logo=jwt&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Bearer-000000?style=flat&logo=bearer&logoColor=white)
+
+#### **☁️ DevOps & Cloud:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+#### **📊 AI & Data Science:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+---
+
+### ⚡ GitHub Stats
+<div width ="100%" display="flex" align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=camelodev&theme=radical&rank_icon=percentile&show_icons=true&show=prs_merged,reviews,prs_merged_percentage" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=camelodev&rank_icon=percentile&show_icons=true&show=reviews,prs_merged,prs_merged_percentage" />
+  <img width="50%" alt="github-stats" src="github-stats.svg" />
+  </picture>
+
+  <img width="35%" align="right" alt ="gif" src ="hacker-png.gif">
+</div>
+
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=camelodev&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=camelodev&date_format=M%20j%5B%2C%20Y%5D" />
+  <img alt="streak" src="streak.svg" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camelodev&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camelodev" />
+  <img alt="profile-details" src="profile-details.svg" />
+  </picture>
+</p>
+
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camelodev&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camelodev" />
+  <img alt="repos-per-language" src="repos-per-language.svg" />
+  </picture>
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=camelodev&theme=radical&utcOffset=8" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=camelodev&utcOffset=8" />
+  <img alt="productive-time" src="productive-time.svg" />
+  </picture>
+</div>
+
+---
+
+### 🔥 What I'm Working On
+- 🚀 Scaling **Stargate It** for enterprise clients
+- 🤖 Developing **API management system to restaurants**
+- ☁️ Enhancing **cloud-native deployment pipelines**
+
+---
+
+### 🌟 Highlighted Areas of Expertise
+✔ **REST Product Development** – Built & scaled job board platforms, HRM systems, and resume builders.
+
+✔ **Enterprise Applications** – POS systems and HRM platforms.
+
+✔ **AI & Machine Learning** – Experience with data analysis, and large-scale prediction platforms.
+
+✔ **DevOps & Cloud** – AWS, Linux, CI/CD pipelines, Docker (though not a fan 😆).
+
+✔ **Game Development** – 2D games using JavaScript Canvas & Godot.
+
+---
+
+### ⚙️ My DevOps Workflow
+- ✅ **Continuous Integration**: Automated builds using **GitHub**
+- 🚀 **Continuous Deployment**: Dockerized microservices on **AWS**
+- 📈 **Monitoring**: Using **Grafana and Zabbix** for system health
+
+---
+
+### 🔹 Why Connect With Me?
+🚀 **I’m passionate about tech innovation, building scalable applications, and solving real-world problems.** Open to **collaborations, speaking opportunities, and mentorship.**
+
+📫 **Let's connect:** [Linkedin](https://linkedin.com/in/victor-jayme)
+| [Portfolio](https://camelodev.tech)
+
+---
+
+### 📊 Profile Insights
+![GitHub Followers](https://img.shields.io/github/followers/camelodev?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3)
+![Profile Views](https://komarev.com/ghpvc/?username=camelodev&label=Profile%20Views&color=blue&style=flat)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/camelodev/camelodev/main?color=blue&label=Commit%20Activity)
+![Waka Time](https://wakatime.com/badge/user/262bff3a-75bc-48d2-a324-570043640061.svg)
+![GitHub Stars](https://img.shields.io/github/stars/camelodev?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3)
 
 
-## Card Starts
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camelodev&theme=dark&hide_border=false&include_all_commits=true)  
+### 👨‍💻 Find me on communities
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camelodev&theme=dark&hide_border=false&layout=compact) 
+<div width="100%" display="flex" align="center">
+  <a href="https://stackoverflow.com/users/30196412/camelodev">
+<code><img src="https://img.icons8.com/color-glass/48/stackoverflow.png"/></code>
+</a>
+  <a href="https://gitlab.com/camelodev">
+<code><img src="https://img.icons8.com/color/48/gitlab.png"/></code>
+</a>
+  <a href="https://github.com/camelodev">
+<code><img src="https://img.icons8.com/color/48/github.png"/></code>
+</a>
+  <a href="https://app.daily.dev/camelodev">
+<code><img width="48" height="48" src="https://daily-now-res.cloudinary.com/image/upload/v1614088267/landing/Daily.dev_logo.png"/></code>
+</a>
+  <a href="https://profile.codersrank.io/user/camelodev/">
+<code><img width="60" src="https://www.svgrepo.com/show/305886/codersrank.svg"/></code>
+</a>
+</div>
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@camelodev&layout=compact&theme=dark)
 
-# Github Trophy
-<p align="start">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=camelodev&theme=radical&margin-w=15&no-frame=true&no-bg=true" />
+---
+
+### 📃 Gists may you important
+
+<div width="100%" display="flex" align="center">
+  <a href="https://gist.github.com/camelodev/8faf5592f24a45ff1151378f0fb40309/">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=camelodev&repo=api-rest-agropecuaria&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=camelodev&repo=api-rest-agropecuaria" />
+    <img alt="3d-contrib" src="3d-contrib.svg" />
+    </picture>
+  </a>
+  <a href="https://gist.github.com/kavicastelo/bd2d807c9f436b755fa81eafc6b9d1d4/">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=camelodev&repo=cpp-scanner&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=camelodev&repo=cpp-scanner" />
+    <img alt="3d-contrib" src="3d-contrib.svg" />
+    </picture>
+  </a>
+</div>
+
+---
+
+### 🏆 Github Trophies
+
+<p align="center">
+  <a href="https://github.com/camelodev">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=camelodev&theme=radical&no-frame=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=camelodev&no-frame=true" />
+    <img width=800 alt="troophy" src="troophy.svg"  style="display:block; margin:auto;"/>
+    </picture>
   </a>
 </p>
 
-## Linguagens de Programação
-![Blog](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Blog](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Blog](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Blog](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Blog](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-[![Blog](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://camelodev.tech)
-![Blog](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Blog](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Blog](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Blog](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Blog](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Blog](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+### 📈 Monthly Contribution Stats
+
+<a href="https://github.com/camelodev">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=camelodev&theme=react-dark&radius=8&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=camelodev&radius=8&area=true" />
+  <img alt="activity-graph" src="activity-graph.svg" />
+</picture>
+</a>
+---
+
+<details>
+  <summary>Activities on other dev platforms😉</summary>
+
+<h3 align="center">Leetcode</h3>
+<div align="center">
+  <a href="https://leetcode.com/u/camelodev/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/camelodev?theme=radical&font=Basic&ext=heatmap" />
+  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/camelodev?theme=light&font=Basic&ext=heatmap" />
+  <img alt="leetcode-graph" src="leetcode.svg" />
+</picture>
+</a>
+</div>
+
+<h3 align="center">Coading Activity</h3>
+<div align="center">
+
+| Coders Rank                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                 Wakatime |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <a href="https://profile.codersrank.io/user/camelodev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&bg=4b505d" /><source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=camelodev&bg=fff" /><img alt="codersrank" src="codersrank.svg" width="100%"/></picture></a> | <a href="https://wakatime.com/@camelodev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@camelodev/3d538d55-7c79-415d-883e-012b3af215c2.svg" /><source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@kavicastelo/e10233a1-3f24-4e3c-864c-493a4e42427a.svg" /><img alt="waka-time" src="wakatime.svg" width="100%"/></picture></a> |
+</div>
+
+<div display="flex">
+  <a href="https://github.com/camelodev">
+    <img alt="Camelo Dev's GitHub Stats" src="https://stats.hyo.dev/api/github-stats-advanced?login=camelodev" width="45%" />
+  </a>
+  <a href="https://github.com/camelodev">
+    <img alt="Camelo Dev's Dev Card" src="./camelodev.png" width="45%"/>
+  </a>
+</div>
+
+</details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/camelodev/camelodev/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kavicastelo/kavicastelo/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+---
+
+<div align="right">
+<p>Workflow status⚙</p>
+
+![3d-contrib metrics](https://img.shields.io/github/actions/workflow/status/camelodev/camelodev/.github/workflows/profile-3d.yml?label=3d-contributions)
+![Overview](https://img.shields.io/github/actions/workflow/status/camelodev/camelodev/.github/workflows/classic.yml?label=overview)
+![Achievements](https://img.shields.io/github/actions/workflow/status/camelodev/camelodev/.github/workflows/metrics.yml?label=achievements)
+![Recent Languages](https://img.shields.io/github/actions/workflow/status/camelodev/camelodev/.github/workflows/langUse.yml?label=recent_languages)
+![PR Status](https://img.shields.io/github/actions/workflow/status/camelodev/camelodev/.github/workflows/indepth.yml?label=pr_status)
+![Daily-dev](https://img.shields.io/github/actions/workflow/status/camelodev/camelodev/.github/workflows/DevCard.yml?label=daily-dev)
+![Snake Contributions](https://img.shields.io/github/actions/workflow/status/camelodev/camelodev/.github/workflows/snake.yml?label=snake_contributions)
+
+</div>
+
+<div display="flex" align="center">
+  <img src="https://count.getloli.com/@camelodev?name=camelodev&theme=rule34&padding=1&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto&prefix=001">
+</div>
+
+🔥 **Let's build something awesome together!**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile👋&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80">
