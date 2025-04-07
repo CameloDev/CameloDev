@@ -223,7 +223,7 @@ These early-stage projects may lack features or contain minor bugs â€” but theyâ
     <img alt="3d-contrib" src="3d-contrib.svg" />
     </picture>
   </a>
-  <a href="https://gist.github.com/kavicastelo/bd2d807c9f436b755fa81eafc6b9d1d4/">
+  <a href="https://gist.github.com/camelodev/bd2d807c9f436b755fa81eafc6b9d1d4/">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=camelodev&repo=cpp-scanner&theme=radical" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=camelodev&repo=cpp-scanner" />
@@ -276,7 +276,7 @@ These early-stage projects may lack features or contain minor bugs â€” but theyâ
 
 | Coders Rank                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                 Wakatime |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| <a href="https://profile.codersrank.io/user/camelodev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&bg=4b505d" /><source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=camelodev&bg=fff" /><img alt="codersrank" src="codersrank.svg" width="100%"/></picture></a> | <a href="https://wakatime.com/@camelodev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@camelodev/3d538d55-7c79-415d-883e-012b3af215c2.svg" /><source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@kavicastelo/e10233a1-3f24-4e3c-864c-493a4e42427a.svg" /><img alt="waka-time" src="wakatime.svg" width="100%"/></picture></a> |
+| <a href="https://profile.codersrank.io/user/camelodev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=camelodev&bg=4b505d" /><source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=camelodev&bg=fff" /><img alt="codersrank" src="codersrank.svg" width="100%"/></picture></a> | <a href="https://wakatime.com/@camelodev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@camelodev/3d538d55-7c79-415d-883e-012b3af215c2.svg" /><source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@camelodev/3d538d55-7c79-415d-883e-012b3af215c2.svg" /><img alt="waka-time" src="wakatime.svg" width="100%"/></picture></a> |
 </div>
 
 <div display="flex">
@@ -292,7 +292,7 @@ These early-stage projects may lack features or contain minor bugs â€” but theyâ
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/camelodev/camelodev/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kavicastelo/kavicastelo/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/camelodev/camelodev/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
