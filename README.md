@@ -4,11 +4,12 @@
 
 $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 
-<a href="https://github.com/kavicastelo">
-  <img src="https://render.gitanimals.org/lines/camelodev?pet-id=655005503710681288" width="30%" height="100" />
-  <img src="https://render.gitanimals.org/lines/camelodev?pet-id=655084059983724938" width="30%" height="100" />
-  <img src="https://render.gitanimals.org/lines/camelodev?pet-id=676696471626403543" width="30%" height="100" />
+<a href="https://github.com/camelodev">
+  <img src="https://render.gitanimals.org/lines/CameloDev?pet-id=697087765647887986" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/CameloDev?pet-id=697087730390578660" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/CameloDev?pet-id=697087730948410479" width="30%" height="100" />
 </a>
+
 
 ‎‎ ‎ ‎ ‎ I am a **full-stack software engineer** and **entrepreneur** who specializes in developing **scalable web, mobile, and enterprise solutions**. With a strong foundation in **MEAN stack**, **Java-based systems**, and **cloud-native development**, I thrive on solving complex problems and building high-performance software.
 
@@ -164,7 +165,6 @@ These early-stage projects may lack features or contain minor bugs — but they�
 
 
 ---
-
 <details>
   <summary>🦑 Github Metrics 🌌</summary>
   <table>
@@ -180,8 +180,6 @@ These early-stage projects may lack features or contain minor bugs — but they�
     </tr>
   </table>
 </details>
-
----
 
 ### 👨‍💻 Find me on communities
 
@@ -248,7 +246,6 @@ These early-stage projects may lack features or contain minor bugs — but they�
   <img alt="activity-graph" src="activity-graph.svg" />
 </picture>
 </a>
-
 ---
 
 <details>
