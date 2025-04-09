@@ -11,7 +11,7 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 </a>
 
 
-‎‎ ‎ ‎ ‎ I am a **full-stack software engineer** and **entrepreneur** who specializes in developing **scalable web, mobile, and enterprise solutions**. With a strong foundation in **MEAN stack**, **Java-based systems**, and **cloud-native development**, I thrive on solving complex problems and building high-performance software.
+‎‎ ‎ ‎ ‎ I am a **back-end software engineer** and **entrepreneur** who specializes in developing **scalable web, mobile, and enterprise solutions**. With a strong foundation in **MEAN stack**, **Java-based systems**, and **cloud-native development**, I thrive on solving complex problems and building high-performance software.
 
 ### 🚀 About Me
 - 🔥 **Backend & Software Engineer** at **StargateIt** – Innovating **Appetito** to Restaurants
@@ -36,24 +36,30 @@ These early-stage projects may lack features or contain minor bugs — but they�
 ### 💡 Tech Stack
 
 #### **🚀 Programming & Scripting:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-FF61E2?style=flat&logo=c%2B%2B&logoColor=blck)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Static Badge](https://img.shields.io/badge/PHP-A2A4D2?style=flat&logo=php&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Assembly-2461A3?style=flat&logo=assembly&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
 #### **🖥️ Frontend:**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 
 #### **⚙️ Backend:**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)
 
 #### **🗄️ Databases:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -61,21 +67,42 @@ These early-stage projects may lack features or contain minor bugs — but they�
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Firebase-FFA50A?style=flat&logo=firebase&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/DynamoDB-000000?style=flat&logo=amazon&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
 
 #### **🌐 APIs:**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JWT-000000?style=flat&logo=jwt&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Bearer-000000?style=flat&logo=bearer&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
 
 #### **☁️ DevOps & Cloud:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+
 
 #### **📊 AI & Data Science:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+#### **🗒️ Code Editor:**
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)
+
+#### **🤝 Other Tools:**
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+
+
+
+
 
 ---
 
@@ -165,7 +192,6 @@ These early-stage projects may lack features or contain minor bugs — but they�
 
 
 ---
-
 <details>
   <summary>🦑 Github Metrics 🌌</summary>
   <table>
@@ -207,9 +233,9 @@ These early-stage projects may lack features or contain minor bugs — but they�
 ### 🌌 3D Contribution metrics(latest)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/camelodev/camelodev/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/camelodev/camelodev/blob/main/profile-3d-contrib/profile-south-season-animate.svg" />
-  <img alt="3d-contrib" src="3d-contrib.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camelodev/camelodev/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/camelodev/camelodev/main/profile-3d-contrib/profile-south-season-animate.svg" />
+  <img alt="3d-contrib" src="https://raw.githubusercontent.com/camelodev/camelodev/main/profile-3d-contrib/profile-south-season-animate.svg" />
 </picture>
 
 ---
@@ -224,7 +250,7 @@ These early-stage projects may lack features or contain minor bugs — but they�
     <img alt="3d-contrib" src="3d-contrib.svg" />
     </picture>
   </a>
-  <a href="https://gist.github.com/camelodev/bd2d807c9f436b755fa81eafc6b9d1d4/">
+  <a href="https://gist.github.com/kavicastelo/bd2d807c9f436b755fa81eafc6b9d1d4/">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=camelodev&repo=cpp-scanner&theme=radical" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=camelodev&repo=cpp-scanner" />
@@ -256,7 +282,6 @@ These early-stage projects may lack features or contain minor bugs — but they�
   <img alt="activity-graph" src="activity-graph.svg" />
 </picture>
 </a>
-
 ---
 
 <details>
@@ -278,7 +303,7 @@ These early-stage projects may lack features or contain minor bugs — but they�
 
 | Coders Rank                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                 Wakatime |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| <a href="https://profile.codersrank.io/user/camelodev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=camelodev&bg=4b505d" /><source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=camelodev&bg=fff" /><img alt="codersrank" src="codersrank.svg" width="100%"/></picture></a> | <a href="https://wakatime.com/@camelodev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@camelodev/3d538d55-7c79-415d-883e-012b3af215c2.svg" /><source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@camelodev/3d538d55-7c79-415d-883e-012b3af215c2.svg" /><img alt="waka-time" src="wakatime.svg" width="100%"/></picture></a> |
+| <a href="https://profile.codersrank.io/user/camelodev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&bg=4b505d" /><source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=camelodev&bg=fff" /><img alt="codersrank" src="codersrank.svg" width="100%"/></picture></a> | <a href="https://wakatime.com/@camelodev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@camelodev/3d538d55-7c79-415d-883e-012b3af215c2.svg" /><source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@kavicastelo/e10233a1-3f24-4e3c-864c-493a4e42427a.svg" /><img alt="waka-time" src="wakatime.svg" width="100%"/></picture></a> |
 </div>
 
 <div display="flex">
@@ -294,7 +319,7 @@ These early-stage projects may lack features or contain minor bugs — but they�
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/camelodev/camelodev/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/camelodev/camelodev/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kavicastelo/kavicastelo/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
