@@ -192,6 +192,7 @@ These early-stage projects may lack features or contain minor bugs — but they�
 
 
 ---
+
 <details>
   <summary>🦑 Github Metrics 🌌</summary>
   <table>
@@ -282,6 +283,7 @@ These early-stage projects may lack features or contain minor bugs — but they�
   <img alt="activity-graph" src="activity-graph.svg" />
 </picture>
 </a>
+
 ---
 
 <details>
