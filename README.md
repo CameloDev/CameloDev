@@ -183,7 +183,7 @@ These early-stage projects may lack features or contain minor bugs — but they�
 ---
 
 ### 📊 Profile Insights
-![GitHub Followers](https://img.shields.io/github/followers/camelodev?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3)
+![GitHub Followers](https://img.shields.io/github/followers/camelode?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3)
 ![Profile Views](https://komarev.com/ghpvc/?username=camelodev&label=Profile%20Views&color=blue&style=flat)
 ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/camelodev/camelodev/main?color=blue&label=Commit%20Activity)
 ![Waka Time](https://wakatime.com/badge/user/262bff3a-75bc-48d2-a324-570043640061.svg)
