@@ -10,7 +10,6 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
   <img src="https://render.gitanimals.org/lines/CameloDev?pet-id=697087730948410479" width="30%" height="100" />
 </a>
 
-
 ‎‎ ‎ ‎ ‎ I am a **back-end software engineer** and **entrepreneur** who specializes in developing **scalable web, mobile, and enterprise solutions**. With a strong foundation in **MEAN stack**, **Java-based systems**, and **cloud-native development**, I thrive on solving complex problems and building high-performance software.
 
 ### 🚀 About Me
