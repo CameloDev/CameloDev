@@ -150,8 +150,8 @@ These early-stage projects may lack features or contain minor bugs — but they�
 ---
 
 ### 🔥 What I'm Working On
-- 🚀 Scaling **Stargate It** for enterprise clients
-- 🤖 Developing **API management system to restaurants**
+- 🚀 Scaling **Stargate It** and **BitCamel** for enterprise clients
+- 🤖 Developing **API management system to restaurants** and **API to create documents of ABNT2 requeriments with AI**
 - ☁️ Enhancing **cloud-native deployment pipelines**
 
 ---
