@@ -159,7 +159,7 @@ These early-stage projects may lack features or contain minor bugs — but they�
 ### 🌟 Highlighted Areas of Expertise
 ✔ **REST Product Development** – Built & scaled job board platforms, HRM systems, and resume builders.
 
-✔ **Enterprise Applications** – POS systems and HRM platforms.
+✔ **Enterprise Applications** – POS systems, DMS and ERP platforms.
 
 ✔ **AI & Machine Learning** – Experience with data analysis, and large-scale prediction platforms.
 
