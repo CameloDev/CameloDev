@@ -14,7 +14,7 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 
 ### 🚀 About Me
 - 🔥 **Backend & Software Engineer** at **StargateIt** – Innovating **Appetito** to Restaurants
-- 💻 **3+ hours of daily coding** – Focused on Backend, and Cloud computing
+- 💻 **4+ hours of daily coding** – Focused on Backend, and Cloud computing
 - 🔬 Passionate about **DevOps, and Large-Scale Management System**
 - 🎯 Aiming to **achieve full financial independence** before **35** 🔥
 
