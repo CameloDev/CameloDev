@@ -6,8 +6,8 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 
 <a href="https://github.com/camelodev">
   <img src="https://render.gitanimals.org/lines/CameloDev?pet-id=701072273163267794" width="30%" height="100" />
-  <img src="https://render.gitanimals.org/lines/CameloDev?pet-id=697087730390578660" width="30%" height="100" />
-  <img src="https://render.gitanimals.org/lines/CameloDev?pet-id=697087730948410479" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/CameloDev?pet-id=701072239520748902" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/CameloDev?pet-id=701072238593805481" width="30%" height="100" />
 </a>
 
 ‎‎ ‎ ‎ ‎ I am a **back-end software engineer** and **entrepreneur** who specializes in developing **scalable web, mobile, and enterprise solutions**. With a strong foundation in **MEAN stack**, **Java-based systems**, and **cloud-native development**, I thrive on solving complex problems and building high-performance software.
