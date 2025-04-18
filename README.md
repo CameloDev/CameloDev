@@ -311,7 +311,7 @@ These early-stage projects may lack features or contain minor bugs â€” but theyâ
 
 <div display="flex">
   <a href="https://github.com/camelodev">
-    <img alt="Camelo Dev's GitHub Stats" src="https://stats.hyo.dev/api/github-stats-advanced?login=camelode" width="45%" />
+    <img alt="Camelo Dev's GitHub Stats" src="https://stats.hyo.dev/api/github-stats-advanced?login=camelodev" width="45%" />
   </a>
   <a href="https://github.com/camelodev">
     <img alt="Camelo Dev's Dev Card" src="./camelodev.png" width="45%"/>
