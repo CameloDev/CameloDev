@@ -114,6 +114,12 @@ These early-stage projects may lack features or contain minor bugs â€” but theyâ
   <img width="50%" alt="github-stats" src="github-stats.svg" />
   </picture>
 
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=camelodev&show_icons=true&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=camelodev&show_icons=true&theme=light" />
+  <img width="50%" alt="github-stats" src="github-stats.svg" />
+  </picture>
+
   <img width="35%" align="right" alt ="gif" src ="hacker-png.gif">
 </div>
 
