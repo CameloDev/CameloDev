@@ -110,7 +110,7 @@ These early-stage projects may lack features or contain minor bugs â€” but theyâ
 <div width ="100%" display="flex" align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=camelodev&theme=radical&rank_icon=percentile&show_icons=true&show=prs_merged,reviews,prs_merged_percentage" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=camelodev&theme=radical&rank_icon=percentile&show_icons=true&show=prs_merged,reviews,prs_merged_percentage" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=camelodev&rank_icon=percentile&show_icons=true&show=reviews,prs_merged,prs_merged_percentage" />
   <img width="50%" alt="github-stats" src="github-stats.svg" />
   </picture>
   <img width="35%" align="right" alt ="gif" src ="hacker-png.gif">
