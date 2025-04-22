@@ -116,7 +116,6 @@ These early-stage projects may lack features or contain minor bugs â€” but theyâ
   <img width="35%" align="right" alt ="gif" src ="hacker-png.gif">
 </div>
 
-
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=camelodev&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
@@ -124,6 +123,7 @@ These early-stage projects may lack features or contain minor bugs â€” but theyâ
   <img alt="streak" src="streak.svg" />
   </picture>
 </p>
+
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camelodev&theme=radical" />
