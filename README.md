@@ -5,7 +5,7 @@
 $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 
 <a href="https://github.com/camelodev">
-  <img src="https://render.gitanimals.org/lines/CameloDev?pet-id=701072237977246045" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/CameloDev?pet-id=702607831737897216" width="30%" height="100" />
   <img src="https://render.gitanimals.org/lines/CameloDev?pet-id=701072239520748902" width="30%" height="100" />
   <img src="https://render.gitanimals.org/lines/CameloDev?pet-id=701072238593805481" width="30%" height="100" />
 </a>
