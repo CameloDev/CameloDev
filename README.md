@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/camelodev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Camelo+Dev;I'm+a+web+developer;I'm+an+android+developer;I'm+a+cross-platform+developer;I'm+a+Backend+developer" alt="Typing SVG" /></a>  
+<a href="https://github.com/camelodev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Camelo+Dev;I'm+a+web+developer;I'm+an+android+developer;I'm+a+cross-platform+developer;I'm+a+backend+developer" alt="Typing SVG" /></a>  
 </div>
 
 $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
