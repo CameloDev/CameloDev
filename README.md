@@ -140,8 +140,8 @@ These early-stage projects may lack features or contain minor bugs â€” but theyâ
   </picture>
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=camelodev&theme=radical&utcOffset=8" />
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=camelodev&utcOffset=8" />
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=camelodev&theme=radical&utcOffset=-3" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=camelodev&utcOffset=-3" />
   <img alt="productive-time" src="productive-time.svg" />
   </picture>
 </div>
