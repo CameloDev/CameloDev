@@ -26,3 +26,6 @@ jobs:
             forker, follower, scripter, packager, explorer, verified, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: 1
+
+          plugin_contributions: yes
+          plugin_contributions_sections: all
