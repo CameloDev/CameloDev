@@ -17,7 +17,7 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 - 👨‍💼 **CEO and Founder** at BitCamel Organization - Innovating **Document Ai** to business enterprise
 - 💻 **4+ hours of daily coding** – Focused on Backend, and Cloud computing
 - 🔬 Passionate about **DevOps, and Large-Scale Management System**
-- 🎯 Aiming to **achieve full financial independence** before **39** 🔥
+- 🎯 Aiming to **achieve full financial independence** before **37** 🔥
 
 <i>Check out my [Digital Garden](https://camelodev.tech/)</i> <br>
 
