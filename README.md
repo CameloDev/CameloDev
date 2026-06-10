@@ -315,6 +315,9 @@ These early-stage projects may lack features or contain minor bugs â€” but theyâ
   <a href="https://github.com/camelodev">
     <img alt="Camelo Dev's Dev Card" src="./camelodev.png" width="45%"/>
   </a>
+  <a href="https://codeforces-readme-stats.vercel.app/api/card?username=camelodev">
+    <img alt= "Camelo Dev's Codeforces Card" src="https://codeforces-readme-stats.vercel.app/api/card?username=camelodev" width="45%"/>
+  </a>
 </div>
 
 </details>
